@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="long_press_on_below_list_item_to_open_context_menu">Long Press on below list item to open Context Menu</string>
+    <string name="Long_press_on_below_list_item_to_open_context_menu">Long Press on below list item to open Context Menu</string>
+</resources>
